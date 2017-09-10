@@ -28,7 +28,7 @@
                     <a href="/" class="animated fadeIn animation-delay-4"  data-name="home">FAQ</a>
                 </li>
                 <li>
-                    <a href="/" class="animated fadeIn animation-delay-4"  data-name="home">Entrar</a>
+                    <a href="/formpanel" class="animated fadeIn animation-delay-4"  data-name="home">Entrar</a>
                 </li>
 
             </ul>

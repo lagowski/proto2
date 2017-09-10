@@ -18,11 +18,11 @@
 
 @include('layouts.circle_counter')
 
-@include('layouts.tickers')
+{{--@include('layouts.tickers')--}}
 
-@include('layouts.portfolio')
+{{--@include('layouts.portfolio')--}}
 
-@include('layouts.our_team')
+{{--@include('layouts.our_team')--}}
 
 @include('layouts.footer')
 
